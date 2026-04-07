@@ -1,0 +1,41 @@
+GETSCAN PROPRIETARY SOURCE LICENSE (DPSL-1.0)
+Copyright © 2026 Daichi (@DaichiAlt_kage/4076266120) / Heavenly Creation. All Rights Reserved.
+
+    
+[ 1. ACCEPTANCE OF TERMS ]
+   BY ACCESSING, COPYING, INSTALLING, OR OTHERWISE USING THIS SOFTWARE, YOU 
+   AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE TO 
+   THESE TERMS, YOU ARE NOT PERMITTED TO USE THE SOFTWARE AND MUST DELETE 
+   ALL COPIES IMMEDIATELY.
+    
+[ 2. GRANT OF LICENSE ]
+   Subject to the terms and conditions of this License, the Licensor hereby 
+   grants you a non-exclusive, non-transferable, royalty-free license to 
+   use, modify, and integrate this Software into private, non-commercial 
+   projects within the Roblox platform.
+    
+[ 3. RESTRICTIONS ]
+3.1 NON-COMMERCIAL USE ONLY: You may not sell, rent, lease, or otherwise 
+      commercialize this Software or any derivative works.
+3.2 PROHIBITION ON REDISTRIBUTION: You may not redistribute this Software 
+      as a standalone product, library, or plugin on any public marketplace 
+      or repository for profit or as your own work.
+3.3 PROHIBITION ON PLAGIARISM: You may not remove, obscure, or alter 
+      any copyright notices or identification of the Licensor (Daichi) 
+      contained within the Software.
+    
+[ 4. DERIVATIVE WORKS & ATTRIBUTION ]
+   You may create derivative works based on this Software for private use. 
+   However, any such derivative work that is shared or distributed must 
+   prominently credit "Daichi" as the original author of the underlying 
+   architecture and logic.
+    
+[ 5. NO VIRAL REQUIREMENT ]
+   The use of this Software in your project does not require you to 
+   release your own project’s source code under this or any other license. 
+   Your original logic remains your proprietary property.
+    
+[ 6. DISCLAIMER OF WARRANTY ]
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+   OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, 
+   DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
